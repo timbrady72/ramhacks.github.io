@@ -28,6 +28,7 @@ $$
 
 * Code highlight with Rouge
 * Editted by Julio
+* And also Tim Brady
 
 ```ruby
 # Ruby code with syntax highlighting
